@@ -3,8 +3,7 @@ PROJ_NAME = Embedded Activity
 BUILD_DIR = Build
 
 # All Source code files
-SRC = main_code.c\
-src/user_utils.c
+main_code.c
 
 # All header file paths
 INC = -I inc
